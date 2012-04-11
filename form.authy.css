@@ -33,9 +33,9 @@
 }
 
 #authy-token {
-  padding: 3px 0 3px 22px;
+  padding: 3px 0 3px 3px;
   border: 1px solid #ccc;
-  background: url('images/icon.png') no-repeat 2px center;
+  background: url('images/icon.png') no-repeat 100px center;
   color: #333;
 }
 

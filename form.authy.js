@@ -16,7 +16,7 @@ Authy = {
       if(tocken.value != '' && tocken.value.match(/^\d+$/)){
         tocken.style.backgroundColor = "white";
       } else {
-        tocken.style.backgroundColor = "red";
+        tocken.style.backgroundColor = "#EB2323";
       }
     }
     
@@ -142,7 +142,7 @@ Authy = {
       if(cellPhone.value != '' && cellPhone.value.match(/^[\d.-]+$/)){
         cellPhone.style.backgroundColor = "white";
       } else {
-        cellPhone.style.backgroundColor = "red";
+        cellPhone.style.backgroundColor = "#EB2323";
       }
     }
     
